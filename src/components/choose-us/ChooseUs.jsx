@@ -15,7 +15,7 @@ const ChooseUs = () => {
                     <div className="choose__content">
                         <h4>¿Quiénes somos?</h4>
                         <h2>Mira lo que te ofrecemos</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos at eum esse quasi recusandae quam!</p>
+                        <p>Con nosotros tendrás los mejores beneficios, estos son algunos de ellos:</p>
                     </div>
                     <div className="features mt-4">
                         <div className="feature1 d-flex align-items-center gap-5">
