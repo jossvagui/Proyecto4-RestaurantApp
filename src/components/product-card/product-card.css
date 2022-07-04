@@ -57,3 +57,15 @@
         transform: scale(1);
     }
 }
+
+@media only screen and (max-width: 767px){
+    .product__content h6{
+        font-size: 0.9rem;
+    }
+    .price{
+        font-size: 0.8rem;
+    }
+    .price span{
+        font-size: 0.9rem;
+    }
+}

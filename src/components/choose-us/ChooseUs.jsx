@@ -8,10 +8,10 @@ const ChooseUs = () => {
     <section>
         <Container>
             <Row>
-                <Col lg='6'>
+                <Col lg='6' md='6'>
                     <img src={pastaImg} alt="" className='w-100' />
                 </Col>
-                <Col lg='6'>
+                <Col lg='6' md='6'>
                     <div className="choose__content">
                         <h4>¿Quiénes somos?</h4>
                         <h2>Mira lo que te ofrecemos</h2>
