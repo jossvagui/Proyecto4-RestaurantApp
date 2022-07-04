@@ -32,7 +32,7 @@ const Header = () => {
             <div className="navigation">
                 <div className="logo">
                     <h2 className="d-flex align-items-center gap-1">
-                        <span><i class="ri-restaurant-2-line"></i></span> Chef Food
+                        <span><i class="ri-restaurant-2-line"></i></span>{" "} El Italiano
                     </h2>
                 </div>
                 <div className="nav__menu" ref={menuRef}>
