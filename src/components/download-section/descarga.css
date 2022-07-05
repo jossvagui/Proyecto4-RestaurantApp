@@ -3,6 +3,14 @@
     border-radius: 10px;
 }
 
+.app__title p {
+    color: #000000;
+    text-align: center;
+    font-weight: 600;
+    font-size: 3rem;
+    margin-top: 30px;
+}
+
 .app__img {
     margin-bottom: -100px;
 }

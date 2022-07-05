@@ -28,10 +28,10 @@ const Testimonials = () => {
                         <div>
                             <div className="single__testimonial">
                                 <p className="review__content">
-                                    "El tamaño y el sabor de la pizza es increíble, sin duda alguna recomiendo muchísimo el lugar.""
+                                    "Cada platillo tiene un sabor único y super especial, lo recomiendo mucho."
                                 </p>
-                                <h6>Enrique Cancino</h6>
-                                <p>Empresario</p>
+                                <h6>Isabel Ortiz</h6>
+                                <p>24 años</p>
                             </div>
                         </div>
 
@@ -41,7 +41,7 @@ const Testimonials = () => {
                                     El tamaño y el sabor de la pizza es increíble, sin duda alguna recomiendo muchísimo el lugar.
                                 </p>
                                 <h6>Enrique Cancino</h6>
-                                <p>Empresario</p>
+                                <p>32 años</p>
                             </div>
                         </div>
                     </Slider>

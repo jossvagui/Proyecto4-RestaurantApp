@@ -5,19 +5,19 @@ import sliderImg03 from "../images/slider03.png";
 export const sliderData = [
   {
     id: "01",
-    title: "We have simple and delicious food for you",
+    title: "Tenemos la comida mas deliciosa de todas",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi animi, itaque ipsum magnam quae alias omnis veniam dolor fugiat similique voluptas consectetur corrupti odit quisquam incidunt quia architecto voluptate molestiae?",
     imgUrl: sliderImg01,
   },
   {
     id: "02",
-    title: "We believe good food over great smile",
+    title: "Nuestra comida te hará sonreir",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi animi, itaque ipsum magnam quae alias omnis veniam dolor fugiat similique voluptas consectetur corrupti odit quisquam incidunt quia architecto voluptate molestiae?",
     imgUrl: sliderImg02,
   },
   {
     id: "03",
-    title: "Meet, Eat and Enjoy the true test",
+    title: "Come y disfruta de los mejores sabores",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi animi, itaque ipsum magnam quae alias omnis veniam dolor fugiat similique voluptas consectetur corrupti odit quisquam incidunt quia architecto voluptate molestiae?",
     imgUrl: sliderImg03,
   },

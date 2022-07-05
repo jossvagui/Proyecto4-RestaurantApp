@@ -5,19 +5,19 @@ import {Container} from 'reactstrap'
 
 const navLinks = [{
     display: 'Inicio',
-    url: '#'
+    url: '/'
 },
 {
     display: 'Nosotros',
-    url: '#' 
+    url: '/nosotros' 
 },
 {
     display: 'Menu',
-    url: '#'
+    url: '/menu'
 },
 {
     display: 'Reservar',
-    url: '#'
+    url: '/reservar'
 }
 ]
 
